@@ -1,0 +1,2 @@
+# Karpov_Courses_analysis_acqusition_channels
+Effectiveness of user acquisition channels
